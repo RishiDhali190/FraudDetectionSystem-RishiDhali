@@ -122,15 +122,5 @@ Models that support `class_weight="balanced"` (Logistic Regression, Random Fores
 
 ---
 
-## 📜 License
 
-This project is released under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use it for learning, portfolios, or as a starting point for production systems.
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
 
